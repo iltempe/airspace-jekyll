@@ -1,12 +1,13 @@
 # Luke e Leila
-![screenshot](screenshots/home.png "il sito dei miei gemelli....")
+![screenshot](screenshots/home.png "il sito di due nuovi arrivi in casa tempe....")
 
-Utilizzo un tema Jekyll con Boostrap. La lista è gestita tramite la piattaforma given2.me
+Utilizzo un tema Jekyll con Boostrap. La lista è gestita tramite la piattaforma [Given2](www.given2.com)
 
+## Uso
+Se vuoi riusare questo sito, [forka questo respository](https://github.com/luminousrubyist/airspace-jekyll/fork), configuralo, e vai!
+
+#Credits
 This Jekyll theme is a port of ThemeFisher's Airspace template. It is released under ThemeFisher's free license, which requires attribution.
-
-## Usage
-To start your project, [fork this respository](https://github.com/luminousrubyist/airspace-jekyll/fork), put in your content, and go!
 
 ## Examples
 Here are some projects that have used this Jekyll Theme:
