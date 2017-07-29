@@ -9,5 +9,12 @@ Come forse hai visto in [questa pagina](http://www.lukeeleila.it/lista/) puoi tr
 
 Come puoi fare per farci un regalo? E' semplice..leggi qui di seguito!
 
+- Vai sulla [pagina della lista regali](http://www.lukeeleila.it/lista/)
+- Seleziona il regalo che preferisci facendo click su Regala
+- A questo punto devi scrivere chi sei, una tua mail
+- Seleziona il metodo di regalo tra quelli proposti
+- Scrivi un messaggio se vuoi
+- Fai click su regala
 
-....
+
+Per problemi con la lista scrivici una mail [qui](mailto:mtempestini@gmail.com) ti aiuteranno mamma e babbo!
