@@ -30,6 +30,7 @@
 <!-- Facebook OpenGraph tags -->
 <meta property="og:title" content="{% if page.url == '/' %}{{ page.title }}{% else %}{{ page.title }} | {{ site.title }}{% endif %}" />
 <meta property="og:type" content="website" />
+<meta property="og:description" content="{{ page.description }}" />
 {% if page.id %}
 <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 {% else %}
