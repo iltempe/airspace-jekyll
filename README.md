@@ -1,5 +1,7 @@
-# _Airspace_ for Jekyll
-![screenshot](screenshots/home.png "Description goes here")
+# Luke e Leila
+![screenshot](screenshots/home.png "il sito dei miei gemelli....")
+
+Utilizzo un tema Jekyll con Boostrap. La lista è gestita tramite la piattaforma given2.me
 
 This Jekyll theme is a port of ThemeFisher's Airspace template. It is released under ThemeFisher's free license, which requires attribution.
 
