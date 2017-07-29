@@ -17,8 +17,7 @@ Seleziona il metodo di regalo tra quelli proposti, in particolare potrai fare il
   - Bonifico Bancario: riceverai via email direttamente le "nostre" coordinate bancarie per fare un bonifico del regalo scelto
   - Acquisto del regalo: riceverai via email le istruzioni di consegna ed il link all'e-commerce del regalo scelto (Amazon o altro). In questo caso sei tu che dovrai acquistare online il regalo e portarcelo oppure farlo recapitare all'indirizzo Via Renzo degli Innocenti, 29, 59100 Prato, Italia.
 
-A questo punto devi scrivere chi sei, una tua mail e se vuoi un messaggio
-Procedi
+A questo punto devi scrivere chi sei, una tua mail e se vuoi un messaggio e poi procedi
 
 <img src="https://media.giphy.com/media/l1J3OYUj77SzXkVXy/giphy.gif" width="50%" />
 
