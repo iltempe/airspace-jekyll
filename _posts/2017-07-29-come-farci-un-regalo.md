@@ -15,9 +15,9 @@ Seleziona il metodo di regalo tra quelli proposti, in particolare potrai fare il
 
   - Soldi in busta: puoi preparare una  busta con i soldi o un assegno da consegnare a babbo e mamma
   - Bonifico Bancario: riceverai via email direttamente le "nostre" coordinate bancarie per fare un bonifico del regalo scelto
-  - Acquisto del regalo: riceverai via email le istruzioni di consegna ed il link all'e-commerce del regalo scelto (Amazon o altro). In questo caso sei tu che dovrai acquistare online il regalo e portarcelo oppure farlo recapitare all'indirizzo Via Renzo degli Innocenti, 29, 59100 Prato, Italia.
+  - Acquisto del regalo: riceverai via email le istruzioni di consegna ed il link all'e-commerce del regalo scelto (Amazon o altro). In questo caso sei tu che dovrai acquistare online il regalo, farlo spedire a casa tua e portarcelo oppure farlo spedire direttamente all'indirizzo Via Renzo degli Innocenti, 29, 59100 Prato, Italia. Se sceglierei questa modalità di acquisto ti chiediamo di fare attenzione ai modelli e ai colori degli oggetti che abbiamo scelto.
 
-A questo punto devi scrivere chi sei, una tua mail e se vuoi un messaggio e poi procedi
+A questo punto dovrai scrivere chi sei, una tua mail e (se vuoi) un messaggio e poi procedi.
 
 <img src="https://media.giphy.com/media/l1J3OYUj77SzXkVXy/giphy.gif" width="50%" />
 
