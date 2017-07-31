@@ -11,3 +11,5 @@ Questo è il sito creato per il nostro arrivo. Speriamo vi piaccia.Per il tempo 
 Così anche a distanza resterete un po' aggiornati su chi siamo e chi diventeremo.
 
 Come dite? Luke e Leila ? I nostri nomi? No non preoccupatevi. Per ora sono solo un modo di chiamarci che ha usato una volta il nostro fratellino Alberto (appassionato di Start Wars), ma quando arriveremo avremo nomi un po' "meno da film" e un po' più da bambini veri! Un bacio e...a presto!
+
+{% include youtubePlayer.html id='SWREDSHedNA' %}
